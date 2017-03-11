@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://cittacapital.com.br/"
+baseurl ="www.nada.com" #"https://davidsevangelista.github.io/"
 languageCode = "en-us"
 title = "Citta"
 theme = "hugo-agency-theme"
@@ -17,8 +17,8 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
-  description = "Your description"
+  name = "CittaCapital"
+  description = "A market making company in Brazil"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -92,19 +92,19 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa fa-university"
       title = "Research"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      description = ""
       url = "#"
 #
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Algorithmic Trading"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      description = ""
       url = "#"
 #
     [[params.services.row.list]]
       icon = "fa fa-line-chart"
       title = "Market Expertise"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      description = ""
       url = "#"
 
 #  # Portfolio section
@@ -134,7 +134,7 @@ googleAnalytics = ""
   [params.about]
     enable = true
     title = "About"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    subtitle = " "
     endpoint = "Citta<br>Capital"
 
     # The events will be listed from the top to the bottom.
@@ -259,7 +259,7 @@ googleAnalytics = ""
   [params.contact]
     enable = true
     title = "Contact us"
-    subtitle  = "Lorem ipsum dolor sit amet consectetur."
+    subtitle  = " " 
     buttonText = "Send message"
 
     # Since this template is static, the contact form uses www.formspree.io as a
